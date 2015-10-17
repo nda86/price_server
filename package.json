@@ -1,0 +1,26 @@
+{
+  "name": "price_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nda86/price_server.git"
+  },
+  "author": "NDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nda86/price_server/issues"
+  },
+  "homepage": "https://github.com/nda86/price_server#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "fs-extra": "^0.24.0",
+    "multer": "^1.0.6",
+    "path": "^0.12.7"
+  }
+}
